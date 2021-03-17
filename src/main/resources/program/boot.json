@@ -1,0 +1,65 @@
+[
+  {
+    "name": "SRC",
+    "value": "",
+    "op": {
+      "op_code": "011111",
+      "data": "1001000111",
+      "desc": "SRC 2,7,1,0"
+    }
+  },
+  {
+    "name": "STR",
+    "value": "",
+    "op": {
+      "op_code": "000010",
+      "data": "0000010000",
+      "desc": "JGE 3,0,IV_ABVLWR "
+    }
+  },
+  {
+    "name": "IN",
+    "value": "",
+    "op": {
+      "op_code": "111101",
+      "data": "0000000000",
+      "desc": "IN 0,0"
+    }
+  },
+  {
+    "name": "IN",
+    "value": "",
+    "op": {
+      "op_code": "111101",
+      "data": "0100000000",
+      "desc": "IN 1,0"
+    }
+  },
+  {
+    "name": "OUT",
+    "value": "",
+    "op": {
+      "op_code": "111110",
+      "data": "0100000001",
+      "desc": "OUT 1,1"
+    }
+  },
+  {
+    "name": "OUT",
+    "value": "",
+    "op": {
+      "op_code": "111110",
+      "data": "0000000001",
+      "desc": "OUT 0,1"
+    }
+  },
+  {
+    "name": "HALT",
+    "value": "",
+    "op": {
+      "op_code": "000000",
+      "data": "0000000000",
+      "desc": "HALT"
+    }
+  }
+]
